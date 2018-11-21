@@ -19,6 +19,7 @@ module.exports = {
     "vue/require-default-prop":0,
     "no-console":0,
     "vue/no-v-html":0,
-    "vue/no-unused-vars":0
+    "vue/no-unused-vars":0,
+    "vue/no-parsing-error":0
   }
 };
